@@ -12,7 +12,7 @@ Analyzing the historical dataset of the Olympic Games from Athens 1896 to Rio 20
 
 
 ---
-### 🎯 The objectiv:
+### 🎯 The objective:
 - In this project we will explore data from the Olympic Games, considering data from Athens 1896 to Rio 2016, using some libraries for Data Science and applying Machine Learning techniques to estimate some results based on history.
 
 ---
